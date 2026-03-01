@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/fdtroya/2D-Thermal-diffusion-PINN](https://github.com/fdtroya/2D-Thermal-diffusion-PINN)
+[https://github.com/fdtroya/2D-Thermal-PINN](https://github.com/fdtroya/2D-Thermal-PINN)
 
 ## Description
 
